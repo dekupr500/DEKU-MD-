@@ -1,3 +1,4 @@
+json
 {
   "name": "mon-bot",
   "version": "1.0.0",
@@ -9,7 +10,7 @@
   "author": "Deku",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "^6.6.6"
+    "@adiwajshing/baileys": "^5.0.0"
   }
 }
 
