@@ -1,6 +1,9 @@
 
 
 ```js
+console.log("Le numéro du propriétaire est :", ownerNumber);
+console.log("Le nom du bot est :", botName);
+
 require('dotenv').config()
 
 const { default: makeWASocket, useSingleFileAuthState, DisconnectReason } = require('@whiskeysockets/baileys');
