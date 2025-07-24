@@ -1,0 +1,17 @@
+```json
+{
+  "name": "mon-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp personnel avec Baileys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "TonNom",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "pino": "^8.0.0"
+  }
+}
+```
