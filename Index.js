@@ -1,6 +1,8 @@
 
 
 ```js
+require('dotenv').config()
+
 const { default: makeWASocket, useSingleFileAuthState, DisconnectReason } = require('@whiskeysockets/baileys');
 const { Boom } = require('@hapi/boom');
 const { state, saveState } = useSingleFileAuthState('./session.json');
