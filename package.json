@@ -1,5 +1,4 @@
-json
-{
+
   "name": "deku-whatsapp-bot",
   "version": "1.0.0",
   "description": "Mon bot WhatsApp avec Baileys",
