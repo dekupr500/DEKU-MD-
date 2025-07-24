@@ -1,17 +1,15 @@
-```json
+json
 {
-  "name": "mon-whatsapp-bot",
+  "name": "deku-whatsapp-bot",
   "version": "1.0.0",
-  "description": "Bot WhatsApp personnel avec Baileys",
+  "description": "Mon bot WhatsApp avec Baileys",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "TonNom",
+  "author": "Deku",
   "license": "MIT",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.6.0",
     "pino": "^8.0.0"
-  }
-}
-```
+  
